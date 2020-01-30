@@ -1,0 +1,11 @@
+D:\IBT\C#\Final_Exam_Practice_Test\bin\Debug\netcoreapp2.1\Final_Exam_Practice_Test.deps.json
+D:\IBT\C#\Final_Exam_Practice_Test\bin\Debug\netcoreapp2.1\Final_Exam_Practice_Test.runtimeconfig.json
+D:\IBT\C#\Final_Exam_Practice_Test\bin\Debug\netcoreapp2.1\Final_Exam_Practice_Test.runtimeconfig.dev.json
+D:\IBT\C#\Final_Exam_Practice_Test\bin\Debug\netcoreapp2.1\Final_Exam_Practice_Test.dll
+D:\IBT\C#\Final_Exam_Practice_Test\bin\Debug\netcoreapp2.1\Final_Exam_Practice_Test.pdb
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.csprojAssemblyReference.cache
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.csproj.CoreCompileInputs.cache
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.AssemblyInfoInputs.cache
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.AssemblyInfo.cs
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.dll
+D:\IBT\C#\Final_Exam_Practice_Test\obj\Debug\netcoreapp2.1\Final_Exam_Practice_Test.pdb
